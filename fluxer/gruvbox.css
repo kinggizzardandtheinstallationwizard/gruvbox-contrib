@@ -1,0 +1,81 @@
+:root { --brand-primary: #D65D0E; }
+:root { --brand-secondary: #458588; }
+:root {  }
+:root { --font-sans: 'IBM Plex Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+:root { --font-mono: 'IBM Plex Mono', 'Menlo', 'Monaco', 'Courier New', monospace; }
+:root { --text-link: #8EC07C; }
+:root { --status-online: #B8BB26; }
+:root {  }
+:root {  }
+:root {  }
+:root {  }
+:root {  }
+:root {  }
+:root {  }
+:root {  }
+:root {  }
+:root { --background-primary: #1D2021; }
+:root { --background-secondary: #282828; }
+:root { --background-secondary-alt: #3C3836; }
+:root { --background-tertiary: #32302F; }
+:root { --background-textarea: #32302F; }
+:root { --background-header-primary: #282828; }
+:root { --background-header-secondary: #32302F; }
+:root { --background-header-primary-hover: #504945; }
+:root {  }
+:root {  }
+:root {  }
+:root { --background-modifier-hover: #504945; }
+:root { --guild_list-foreground: #1D2021; }
+:root { --background-modifier-accent: #665C54; }
+:root { --background-modifier-accent-focus: #EBDBB2; }
+:root { --brand-primary-light: #FE8019; }
+:root { --brand-primary-fill: #EBDBB2; }
+:root { --status-idle: #FABD2F; }
+:root { --status-dnd: #FB4934; }
+:root { --status-danger: #CC241D; }
+:root { --status-offline: #A89984; }
+:root { --text-primary: #EBDBB2; }
+:root { --text-secondary: #BDAE93; }
+:root { --text-tertiary: #D5C4A1; }
+:root { --text-primary-muted: #A89984; }
+:root { --text-chat-muted: #A89984; }
+:root { --text-on-brand-primary: #EBDBB2; }
+:root { --text-tertiary-muted: #A89984; }
+:root { --text-tertiary-secondary: #A89984; }
+:root { --border-color: #A89984; }
+:root { --border-color-hover: #D5C4A1; }
+:root { --border-color-focus: #83A598; }
+:root { --accent-success: #98971A; }
+:root { --accent-warning: #D79921; }
+:root { --accent-danger: #CC241D; }
+:root { --accent-purple: #B16286; }
+:root { --alert-note-color: #83A598; }
+:root { --alert-tip-color: #689D6A; }
+:root { --alert-important-color: #B16286; }
+:root { --alert-warning-color: #FABD2F; }
+:root { --alert-caution-color: #FB4934; }
+:root { --markup-mention-fill: #1D2021; }
+:root { --markup-interactive-hover-text: #80C07C; }
+:root {  }
+:root { --button-primary-fill: #98971A; }
+:root { --button-primary-active-fill: #B8BB26; }
+:root {  }
+:root { --button-primary-text: #EBDBB2; }
+:root { --button-secondary-fill: #EBDBB2; }
+:root { --button-secondary-active-fill: #EBDBB2; }
+:root { --button-secondary-text: #EBDBB2; }
+:root { --button-danger-text: #EBDBB2; }
+:root { --button-danger-outline-text: #EBDBB2; }
+:root { --button-danger-fill: #CC241D; }
+:root { --button-danger-active-fill: #FB4934; }
+:root { --button-danger-outline-border: #1D2021; }
+:root { --button-danger-outline-active-fill: #FB4934; }
+:root { --button-danger-outline-active-border: #1D2021; }
+:root { --button-ghost-text: #EBDBB2; }
+:root { --button-inverted-fill: #EBDBB2; }
+:root { --button-inverted-text: #1D2021; }
+:root { --button-outline-border: #1D2021; }
+:root { --button-outline-text: #EBDBB2; }
+:root { --button-outline-active-fill: #EBDBB2; }
+:root { --button-outline-active-border: #1D2021; }
